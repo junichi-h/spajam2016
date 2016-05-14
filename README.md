@@ -1,4 +1,4 @@
-# SPAJAM2016
+# SPAJAM2016 デジテニ ジャパン
 
 ![SPAJAM2016](http://spajam.jp/2016/wp/wp-content/themes/spajam2016/img/home/keyimg.png)
 
